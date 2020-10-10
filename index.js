@@ -377,4 +377,4 @@ if (message.content.startsWith(prefix + 'setavatar')) {
 
 
 
-  client.login(TOKEN);
+  client.login(TOKEN)
