@@ -377,4 +377,4 @@ if (message.content.startsWith(prefix + 'setavatar')) {
 
 
 
-  client.login('NzY0NDM5NjA3Mjg5ODM5NjE2.X4GR3A.1jbXrj0kfNss_rb8fDTlXd9ACXA')
+  client.login(process.env.TOKEN);
